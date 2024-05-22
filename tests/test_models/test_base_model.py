@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-This file is the base of the test model functions
-"""
+""" This file is the base of the test model functions """
 import unittest
 
 from models.base_model import BaseModel
